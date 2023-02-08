@@ -5,34 +5,34 @@ Framework, linguagem e ferramentas
 
 Descreva ferramentas e bibliotecas (libraries, framework, tools etc) você usou.
 
-O básico de Angular, né? JavaScript, CSS, HTML..
-Técnologias X e Y
+-O básico de Angular, né? JavaScript, CSS, HTML..
+
 
 Justifique porque você optou pela tecnologia X e não a Y?
 
-Eu optei pelo uso de bootstrap por ser o mais comum e por eu ainda não ser tão experiente.
+-Eu optei pelo uso de bootstrap por ser o mais comum e por eu ainda não ser tão experiente.
 
 Quais princípios da engenharia de software que você usou?
 
-Usei o favorito de todo iniciante: KISS (Keep it simple, stupid!)
+-Usei o favorito de todo iniciante: KISS (Keep it simple, stupid!)
 
 Conte um pouco sobre os desafios e problemas que você enfrentou e como você resolveu.
 
-Bom, eu tenho um pouco mais de experiência com o C# e Asp Net.
-Trabalhar com o angular foi uma experiência realmente nova pra mim.
+-Bom, eu tenho um pouco mais de experiência com o C# e Asp Net.
+-Trabalhar com o angular foi uma experiência realmente nova pra mim.
 
-Lidar com uma linguagem nova é estranho, no começo.
+-Lidar com uma linguagem nova é estranho, no começo.
 
 O que você entende que pode ser melhorado e como isso pode ser feito?
 
-Só há um único caminho pra resolução desse problema: Estudar e pegar experiência.
-Vontade, tem até de sobra.
+-Só há um único caminho pra resolução desse problema: Estudar e pegar experiência.
+-Vontade, tem até de sobra.
 
 Queremos te conhecer um pouco melhor, conte um pouco sobre você.
 
 Onde nasceu/De onde você é? Lugares que estudou, empresas que trabalhou, como você se envolveu com desenvolvimento de software.. enfim, Quem é você?
 
-Eu sou nascido e crescido em São José do rio preto - SP.
+-Eu sou nascido e crescido em São José do rio preto - SP.
 Já fui uber, professor de informática básica (windows, office e derivados), enfim.... muita coisa por aí.
 Me interessei por programação em 2021 e passei 2022 estudando C#, ASP NET, fiz o bootcamp do santander (que já envolvia javascript, css, html, angular e etc...)
 Fiquei de freelance na empresa Anime Spirit fazendo o back-end do site em C#, usando o MVC5.
